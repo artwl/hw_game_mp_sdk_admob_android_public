@@ -1,0 +1,2 @@
+# hw_game_mp_sdk_admob_android_public
+hw_game_mp_sdk_admob_android_public
